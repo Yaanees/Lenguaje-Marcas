@@ -1,0 +1,129 @@
+<?version="1.0" encoding="utf-8"?>
+
+<torneo>
+    <nombre>Torneo benefico Sevilla22</nombre>
+    <fecha_inicio>12 octubre</fecha_inicio>
+    <fecha_final>14 octubre</fecha_final>
+    <Partidos>
+        <num_partido>1</num_partido>
+        <fecha>12 de octubre</fecha>
+        <datos_jugadores>
+            <Jugador1>Juan Perez Hidalgo</Jugador1>
+            <Jugador2>Benito Pozo Flores</Jugador2>
+        </datos_jugadores>
+        <resultado_sets>
+            <set1>6-4</set1>
+            <set2>6-2</set2>
+            <set3>6-3</set3>
+        </resultado_sets>
+
+        <num_partido>2</num_partido>
+        <fecha>12 de octubre</fecha>
+        <datos_jugadores>
+            <Jugador1>Juan Duran Amaya</Jugador1>
+            <Jugador2>David Amanda Rosales</Jugador2>
+        </datos_jugadores>
+        <resultado_sets>
+            <set1>3-6</set1>
+            <set2>2-6</set2>
+            <set3>2-6</set3>
+        </resultado_sets>
+
+        <num_partido>3</num_partido>
+        <fecha>12 de octubre</fecha>
+        <datos_jugadores>
+            <Jugador1>Antonio Ruiz Camilo</Jugador1>
+            <Jugador2>Francisco Parrila Vega</Jugador2>
+        </datos_jugadores>
+        <resultado_sets>
+            <set1>3-6</set1>
+            <set2>6-8</set2>
+            <set3>4-6</set3>
+        </resultado_sets>
+
+        <num_partido>4</num_partido>
+        <fecha>12 de octubre</fecha>
+        <datos_jugadores>
+            <Jugador1>Mario Isidro Rodriguez</Jugador1>
+            <Jugador2>Rafael Jimenez Jimenez</Jugador2>
+        </datos_jugadores>
+        <resultado_sets>
+            <set1>4-6</set1>
+            <set2>6-3</set2>
+            <set3>6-2</set3>
+            <set4>6-4</set4>
+        </resultado_sets>
+
+        <num_partido>5</num_partido>
+        <fecha>12 de octubre</fecha>
+        <datos_jugadores>
+            <Jugador1>Curro Lopez Espinosa</Jugador1>
+            <Jugador2>Adrian Perez Dominguez</Jugador2>
+        </datos_jugadores>
+        <resultado_sets>
+            <set1>6-2</set1>
+            <set2>6-4</set2>
+            <set3>6-3</set3>
+        </resultado_sets>
+
+        <num_partido>6</num_partido>
+        <fecha>12 de octubre</fecha>
+        <datos_jugadores>
+            <Jugador1>Francisco Liebana Duran</Jugador1>
+            <Jugador2>Pablo Vega Alonso</Jugador2>
+        </datos_jugadores>
+        <resultado_sets>
+            <set1>6-4</set1>
+            <set2>6-2</set2>
+            <set3>6-3</set3>
+        </resultado_sets>
+
+        <num_partido>7</num_partido>
+        <fecha>13 de octubre</fecha>
+        <datos_jugadores>
+            <Jugador1>David Garrido Pozo</Jugador1>
+            <Jugador2>Alvaro Marquez Sanchez</Jugador2>
+        </datos_jugadores>
+        <resultado_sets>
+            <set1>6-4</set1>
+            <set2>6-4</set2>
+            <set3>6-2</set3>
+        </resultado_sets>
+
+        <num_partido>8</num_partido>
+        <fecha>13 de octubre</fecha>
+        <datos_jugadores>
+            <Jugador1>Felix Sanchez Lorenzo</Jugador1>
+            <Jugador2>Francisco Sanmartin Armenta</Jugador2>
+        </datos_jugadores>
+        <resultado_sets>
+            <set1>3-6</set1>
+            <set2>6-8</set2>
+            <set3>4-6</set3>
+        </resultado_sets>
+
+        <num_partido>9</num_partido>
+        <fecha>14 de octubre</fecha>
+        <datos_jugadores>
+            <Jugador1>Angel Espinosa Carvajal</Jugador1>
+            <Jugador2>Pedro Ruiz Sayavera</Jugador2>
+        </datos_jugadores>
+        <resultado_sets>
+            <set1>6-4</set1>
+            <set2>6-1</set2>
+            <set3>6-5</set3>
+        </resultado_sets>
+
+        <num_partido>10</num_partido>
+        <fecha>14 de octubre</fecha>
+        <datos_jugadores>
+            <Jugador1>Antonio Lozano Carmona</Jugador1>
+            <Jugador2>Emilio Rueda Heredia</Jugador2>
+        </datos_jugadores>
+        <resultado_sets>
+            <set1>6-4</set1>
+            <set2>6-3</set2>
+            <set3>6-1</set3>
+        </resultado_sets>
+    </Partidos>
+</torneo>

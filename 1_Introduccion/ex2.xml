@@ -1,0 +1,96 @@
+<?version="1.0" encoding="utf-8"?>
+
+<cluster>
+    <nodos>
+        <num_nodo>1</num_nodo>
+        <maquina_virtual>
+            <nombre>EX465</nombre>
+            <sistema_operativo>Windows</sistema_operativo>
+            <ip>10.255.255.255</ip>
+            <mac>00:1c:44:11:3F:B7</mac>
+
+            <nombre>DG57</nombre>
+            <sistema_operativo>IOS</sistema_operativo>
+            <ip>10.0.0.0</ip>
+            <mac>00:1B:44:11:3A:B5</mac>
+
+            <nombre>YH786</nombre>
+            <sistema_operativo>Windows</sistema_operativo>
+            <ip>172.16.0.0</ip>
+            <mac>01:1A:22:14:3C:F4</mac>
+        </maquina_virtual>
+
+        <num_nodo>2</num_nodo>
+        <maquina_virtual>
+            <nombre>FG342</nombre>
+            <sistema_operativo>UBUNTU</sistema_operativo>
+            <ip>172.31.255.255</ip>
+            <mac>07:2C:24:44:5F:B7</mac>
+
+            <nombre>DF567</nombre>
+            <sistema_operativo>Windows</sistema_operativo>
+            <ip>170.18.231.123</ip>
+            <mac>03:3Y:74:33:3B:A9</mac>
+
+            <nombre>JF853</nombre>
+            <sistema_operativo>UBUNTU</sistema_operativo>
+            <ip>192.168.0.0</ip>
+            <mac>01:3B:11:33:3E:G2</mac>
+        </maquina_virtual>
+
+        <num_nodo>3</num_nodo>
+        <maquina_virtual>
+            <nombre>HE256</nombre>
+            <sistema_operativo>Windows</sistema_operativo>
+            <ip>192.168.255.255</ip>
+            <mac>03:5M:76:11:3E:V3</mac>
+
+            <nombre>NB642</nombre>
+            <sistema_operativo>IOS</sistema_operativo>
+            <ip>176.14.200.200</ip>
+            <mac>02:3M:33:54:3A:V2</mac>
+
+            <nombre>JG153</nombre>
+            <sistema_operativo>LINUX</sistema_operativo>
+            <ip>172.14.134.243</ip>
+            <mac>00:5B:74:21:3Y:S7</mac>
+        </maquina_virtual>
+
+        <num_nodo>4</num_nodo>
+        <maquina_virtual>
+            <nombre>LT842</nombre>
+            <sistema_operativo>Windows</sistema_operativo>
+            <ip>10.215.125.105</ip>
+            <mac>04:5U:14:15:3A:S9</mac>
+
+            <nombre>GH562</nombre>
+            <sistema_operativo>UBUNTU</sistema_operativo>
+            <ip>09.250.115.255</ip>
+            <mac>03:5B:44:11:4A:B7</mac>
+
+            <nombre>XC367</nombre>
+            <sistema_operativo>IOS</sistema_operativo>
+            <ip>172.16.8.230</ip>
+            <mac>01:2B:24:56:7A:B8</mac>
+        </maquina_virtual>
+
+        <num_nodo>5</num_nodo>
+        <maquina_virtual>
+            <nombre>NM531</nombre>
+            <sistema_operativo>Windows</sistema_operativo>
+            <ip>11.220.150.200</ip>
+            <mac>06:5B:44:43:2A:B1</mac>
+
+            <nombre>MK346</nombre>
+            <sistema_operativo>IOS</sistema_operativo>
+            <ip>193.163.10.10</ip>
+            <mac>05:1H:35:98:3A:H7</mac>
+
+            <nombre>QA315</nombre>
+            <sistema_operativo>Windows</sistema_operativo>
+            <ip>14.086.150.167</ip>
+            <mac>00:1J:62:12:6A:F7</mac>
+        </maquina_virtual>
+
+    </nodos>
+</cluster>

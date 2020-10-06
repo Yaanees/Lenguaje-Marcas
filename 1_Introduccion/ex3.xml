@@ -1,0 +1,242 @@
+<?version="1.0" encoding="utf-8"?>
+
+<empresa>
+    <edificios>
+        <num_edificio>1</num_edificio>
+        <direccion>C/Ave paraiso 7</direccion>
+        <num_plantas>3</num_plantas>
+        <planta>
+            <numero_planta>1</numero_planta>
+            <m2>150</m2>
+            <empleados>
+                <puesto>1</puesto>
+                <datos_personales>Antonio Perez Benitez</datos_personales>
+                <extension_telefonica>067</extension_telefonica>
+
+                <puesto>2</puesto>
+                <datos_personales>Maria Perez Baron</datos_personales>
+                <extension_telefonica>087</extension_telefonica>
+
+                <puesto>3</puesto>
+                <datos_personales>Sergio Duque Espinosa</datos_personales>
+                <extension_telefonica>057</extension_telefonica>
+
+                <puesto>4</puesto>
+                <datos_personales>Lara Alvarez Pulido</datos_personales>
+                <extension_telefonica>027</extension_telefonica>
+
+                <puesto>5</puesto>
+                <datos_personales>Silvia Nuñez Rodriguez</datos_personales>
+                <extension_telefonica>077</extension_telefonica>
+
+                <puesto>6</puesto>
+                <datos_personales>Miguel Barbecho Torres</datos_personales>
+                <extension_telefonica>017</extension_telefonica>
+            </empleados>
+
+            <numero_planta>2</numero_planta>
+            <m2>175</m2>
+            <empleados>
+                <puesto>1</puesto>
+                <datos_personales>David Carmona Broncano</datos_personales>
+                <extension_telefonica>063</extension_telefonica>
+
+                <puesto>2</puesto>
+                <datos_personales>Maria del Carmen Amaya Rodriguez</datos_personales>
+                <extension_telefonica>083</extension_telefonica>
+
+                <puesto>3</puesto>
+                <datos_personales>Rafael Jimenez Jimenez</datos_personales>
+                <extension_telefonica>053</extension_telefonica>
+
+                <puesto>4</puesto>
+                <datos_personales>Antonia Pacheco Vargas</datos_personales>
+                <extension_telefonica>023</extension_telefonica>
+
+                <puesto>5</puesto>
+                <datos_personales>Pedro Palote Rodriguez</datos_personales>
+                <extension_telefonica>073</extension_telefonica>
+            </empleados>
+
+            <numero_planta>3</numero_planta>
+            <m2>100</m2>
+            <empleados>
+                <puesto>1</puesto>
+                <datos_personales>Manuela Perez Dominguez</datos_personales>
+                <extension_telefonica>064</extension_telefonica>
+
+                <puesto>2</puesto>
+                <datos_personales>Carlos Palmas Torres</datos_personales>
+                <extension_telefonica>084</extension_telefonica>
+
+                <puesto>3</puesto>
+                <datos_personales>Nacho Blanco Perez</datos_personales>
+                <extension_telefonica>054</extension_telefonica>
+
+                <puesto>4</puesto>
+                <datos_personales>Rafael Vega Duran</datos_personales>
+                <extension_telefonica>024</extension_telefonica>
+
+                <puesto>5</puesto>
+                <datos_personales>ALberto Diaz Heredia</datos_personales>
+                <extension_telefonica>074</extension_telefonica>
+            </empleados>
+        </planta>
+
+
+        <num_edificio>2</num_edificio>
+        <direccion>C/Colina negra 4</direccion>
+        <num_plantas>3</num_plantas>
+        <planta>
+            <numero_planta>1</numero_planta>
+            <m2>150</m2>
+            <empleados>
+                <puesto>1</puesto>
+                <datos_personales>Jose Isidro Rodriguez</datos_personales>
+                <extension_telefonica>067</extension_telefonica>
+
+                <puesto>2</puesto>
+                <datos_personales>Pedro Moreno Perez</datos_personales>
+                <extension_telefonica>087</extension_telefonica>
+
+                <puesto>3</puesto>
+                <datos_personales>Manuel Larrubia Montes</datos_personales>
+                <extension_telefonica>057</extension_telefonica>
+
+                <puesto>4</puesto>
+                <datos_personales>Francisco Sanchez Lorenzo</datos_personales>
+                <extension_telefonica>027</extension_telefonica>
+
+                <puesto>5</puesto>
+                <datos_personales>Jose Alberto Diaz Pacheco</datos_personales>
+                <extension_telefonica>077</extension_telefonica>
+            </empleados>
+
+            <numero_planta>2</numero_planta>
+            <m2>175</m2>
+            <empleados>
+                <puesto>1</puesto>
+                <datos_personales>Maria Ortega Cubillas</datos_personales>
+                <extension_telefonica>013</extension_telefonica>
+
+                <puesto>2</puesto>
+                <datos_personales>Carmen Martinez Figueroa</datos_personales>
+                <extension_telefonica>083</extension_telefonica>
+
+                <puesto>3</puesto>
+                <datos_personales>Fernando Vzquez Velez</datos_personales>
+                <extension_telefonica>023</extension_telefonica>
+
+                <puesto>4</puesto>
+                <datos_personales>Fatima Castelo Rodriguez</datos_personales>
+                <extension_telefonica>085</extension_telefonica>
+
+                <puesto>5</puesto>
+                <datos_personales>Elena Fernandez Gonzalez</datos_personales>
+                <extension_telefonica>053</extension_telefonica>
+            </empleados>
+
+            <numero_planta>3</numero_planta>
+            <m2>100</m2>
+            <empleados>
+                <puesto>1</puesto>
+                <datos_personales>Jose Alvarez Sanchez</datos_personales>
+                <extension_telefonica>032</extension_telefonica>
+
+                <puesto>2</puesto>
+                <datos_personales>Maria Jimenez Jimenez</datos_personales>
+                <extension_telefonica>043</extension_telefonica>
+
+                <puesto>3</puesto>
+                <datos_personales>Cesar Alvarez Castilla</datos_personales>
+                <extension_telefonica>023</extension_telefonica>
+
+                <puesto>4</puesto>
+                <datos_personales>Pablo Sanchez Mendoza</datos_personales>
+                <extension_telefonica>029</extension_telefonica>
+
+                <puesto>5</puesto>
+                <datos_personales>Patricia Velazquez Pereira</datos_personales>
+                <extension_telefonica>094</extension_telefonica>
+            </empleados>
+        </planta>
+
+
+        <num_edificio>3</num_edificio>
+        <direccion>C/Maria pita 37</direccion>
+        <num_plantas>3</num_plantas>
+        <planta>
+            <numero_planta>1</numero_planta>
+            <m2>140</m2>
+            <empleados>
+                <puesto>1</puesto>
+                <datos_personales>Claudia Gomez Ureña</datos_personales>
+                <extension_telefonica>012</extension_telefonica>
+
+                <puesto>2</puesto>
+                <datos_personales>Pablo Espinosa Vega</datos_personales>
+                <extension_telefonica>022</extension_telefonica>
+
+                <puesto>3</puesto>
+                <datos_personales>Angel Espinosa Carvajal</datos_personales>
+                <extension_telefonica>082</extension_telefonica>
+
+                <puesto>4</puesto>
+                <datos_personales>Iñaki Gutierrez Romero</datos_personales>
+                <extension_telefonica>075</extension_telefonica>
+
+                <puesto>5</puesto>
+                <datos_personales>Daniel Romero Garcia</datos_personales>
+                <extension_telefonica>067</extension_telefonica>
+            </empleados>
+
+            <numero_planta>2</numero_planta>
+            <m2>120</m2>
+            <empleados>
+                <puesto>1</puesto>
+                <datos_personales>Lucia Roucco Capela</datos_personales>
+                <extension_telefonica>024</extension_telefonica>
+
+                <puesto>2</puesto>
+                <datos_personales>Omar Adib Zagar</datos_personales>
+                <extension_telefonica>056</extension_telefonica>
+
+                <puesto>3</puesto>
+                <datos_personales>Mario Cobos Gonzalez</datos_personales>
+                <extension_telefonica>023</extension_telefonica>
+
+                <puesto>4</puesto>
+                <datos_personales>Jorge Martin Ruiz</datos_personales>
+                <extension_telefonica>074</extension_telefonica>
+
+                <puesto>5</puesto>
+                <datos_personales>Andrea Rpdriguez Teruel</datos_personales>
+                <extension_telefonica>045</extension_telefonica>
+            </empleados>
+
+            <numero_planta>3</numero_planta>
+            <m2>100</m2>
+            <empleados>
+                <puesto>1</puesto>
+                <datos_personales>Ana Lasso Calderon</datos_personales>
+                <extension_telefonica>085</extension_telefonica>
+
+                <puesto>2</puesto>
+                <datos_personales>Elena Galvan Gonzalez</datos_personales>
+                <extension_telefonica>065</extension_telefonica>
+
+                <puesto>3</puesto>
+                <datos_personales>David Garrido Moreno</datos_personales>
+                <extension_telefonica>025</extension_telefonica>
+
+                <puesto>4</puesto>
+                <datos_personales>Enroque Gonzalez Alvarez</datos_personales>
+                <extension_telefonica>055</extension_telefonica>
+
+                <puesto>5</puesto>
+                <datos_personales>Alvaro Cote Diaz</datos_personales>
+                <extension_telefonica>054</extension_telefonica>
+            </empleados>
+        </planta>
+    </edificios>
+</empresa>
