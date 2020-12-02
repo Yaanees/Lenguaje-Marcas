@@ -1,0 +1,9 @@
+body {background-color: tan} --> Quiere decir que el fondo del cuerpo va a ser del color tan (que es el color que hemos elegido)
+h1 {color:maroon; font-size:20pt} --> Quiere decir que la letra de la cabecera que en este caso es Jabberwocky, va a ser de 20pt de tamaño, y de color marron, ademas de estar en negrita
+hr {color:navy} --> Quiere decir que el color de ese hr va a ser navy, que son las 2 lineas que vemos encima de Jabberwocky y debajo de "Through the....."
+p {font-size:12pt; margin-left: 15px} --> Quiere decir que el tamaño del parrafo va a ser de 12 pt y va a tener un margen izquierdo de 15 px
+p.verse {color:maroon; margin-left: 60px} --> Quiere deecir que ese verso, va a tener la letra de color marron y un margen izquierdo de 60 px
+a:link     {color:green} --> Quiere decir que cuando haya un link, por defecto va a estar en letra verde
+a:visited  {color:yellow} --> Quiere decir, que cuando visitemos el link, se pondrá de color amarillo
+a:hover    {color:black} --> Quiere decir que si ponemos el raton por encima, se pondra de color negro
+a:active   {color:blue} --> Quiere decir que cuando activemos el link, se pondra de color azul
