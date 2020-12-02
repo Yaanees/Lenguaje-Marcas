@@ -1,0 +1,44 @@
+/* This is a comment */
+/* Style Sheet for Jaberwocky Tutorial */
+
+/* Body */
+body {background-image: url("jabber2.gif");
+    background-color: tan;
+background-position: center right;
+background-repeat: no-repeat;
+margin-right: 304px;
+}
+
+/* Headers */
+h1 {color:maroon; font-size:20pt;
+    margin-right: 304px;
+}
+
+/* HR (Hard Rule = line) */
+hr {color:navy;
+    margin-right: 304px;
+}
+
+/* Paragraphs */
+p {font-size:12pt; margin-left: 15px;
+    margin-right: 304px;
+}
+p.verse {color:maroon; margin-left: 60px;
+    margin-right: 304px;
+}
+
+/* Divs */
+
+/* Links */
+a:link     {color:green}
+a:visited  {color:yellow}
+a:hover    {color:black}
+a:active   {color:blue}
+
+/* Navigation */
+
+/* Classes used by all html elements */
+
+/* Ids */
+
+
