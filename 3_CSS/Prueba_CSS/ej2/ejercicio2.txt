@@ -1,0 +1,4 @@
+Se muestran diferente porque en la hoja de estilos tenemos puesto lo siguiente:
+p {font-size:12pt; margin-left: 15px}
+p.verse {color:maroon; margin-left: 60px}
+Esto quiere decir que al tener la clase verse, la letra sera de color marron y tendra un margen izquierdo de 60 px
