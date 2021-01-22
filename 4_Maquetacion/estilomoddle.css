@@ -1,0 +1,136 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    top: 0px;
+    position: center;
+    margin: 0px auto;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.login{
+    margin-left: 85%;
+    margin-bottom: 1%;
+}
+
+.header2{
+    background-color: rgba(74, 129, 11, 0.753);
+    color: white;
+    display: inline-block;
+    margin: 0px auto;
+    width: 100%;
+}
+
+.letra{
+    display: inline-block;
+    padding: 7px;
+}
+
+.zona_central{
+    display: inline-block;
+    width: 100%;
+}
+
+.zona_media img{
+    margin-top: 15px;
+    margin-left: 125px;
+    
+}
+
+.menuprin{
+    border-radius: 5px;
+    background-color: rgb(211, 211, 211);
+    float: left;
+    margin-top: 15px;
+    margin-left: 20px;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+}
+
+.menuprin img{
+    width: 170px;
+}
+
+.calendario{
+    background-color: rgb(211, 211, 211);
+    float: right;
+    margin-top: 15px;
+    border-radius: 6px;
+    padding-left: 25px;
+    padding-right: 20px;
+    padding-bottom: 65px;
+    margin-right:20px ;
+}
+
+.calendario img{
+    width: 185px;
+    height: 125px;
+    padding-bottom: 30px;
+}
+
+.categoria{
+    background-color: rgb(211, 211, 211);
+    text-align: left;
+    padding: 1px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 280px;
+    margin-right: 280px;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+
+.ul{
+    list-style: none;
+}
+
+li{
+    color: rgb(10, 85, 10);
+    font-weight: bolder;
+    text-align: left;
+    padding: 4px;
+}
+span{
+    color: black;
+    font-weight: bolder;
+}
+
+.listas{
+    background-color: rgb(211, 211, 211);
+    margin-left: 280px;
+    margin-right: 280px;
+    border-radius: 5px;
+    position: relative;
+    border: 1px solid green;
+    
+}
+
+.listas img{
+    position: absolute;
+    width: 75px;
+    right: 7px;
+    bottom: 7px;
+
+}
+
+
+.final{
+    background-color: black;
+    color:white;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 125px;
+    bottom: 0px;
+    position: center;
+    margin: 0px auto;
+    width: 100%;
+    border-radius: 5px;
+}
