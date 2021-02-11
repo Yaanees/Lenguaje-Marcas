@@ -1,0 +1,157 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    
+}
+
+header{
+    width: 100%;
+    display: inline-block;
+}
+
+header div{
+    display: inline-block;
+}
+
+header div h1{
+    margin-right: 5px;
+}
+
+#parte_arriba{
+    display: inline-block;
+    padding: 2px;
+}
+
+#parte_derecha{
+    list-style: none;
+    display: inline-block;
+    margin-left: 700px;
+}
+
+#letras{
+    color: gray;
+}
+
+#ul{
+    display: inline-block;
+    margin-left: 500px;
+}
+
+
+#punto{
+    color:green;
+}
+
+nav{
+    background-color: rgb(66, 65, 65);;
+    display: block;
+    width: 100%;
+    position: absolute;
+    
+}
+
+nav ul{
+    display: inline-block;
+}
+
+nav li{
+    list-style: none;
+    display: inline-block;
+    color: white;
+    padding: 5px;
+    position: relative;
+}
+
+nav form{
+    display: inline-block;
+    position: relative;
+    left: 58%;
+}
+
+nav input{
+    color: rgb(66, 65, 65);
+    background-color: rgb(66, 65, 65);;
+    border: 0px;
+}
+
+main img{
+    width: 100%;
+    position: relative;    
+    top: 110px;
+}
+
+#cuadro_gris{
+    background-color: rgb(97, 97, 97);
+    opacity: 80%;
+    bottom: 100px;
+    position: relative;
+    width: 350px;
+    margin-left: 45px;
+    color: white;
+}
+
+#bot_derecho{
+    position: relative;
+    bottom: 500px;
+}
+
+#bot_izq{
+    position: relative;
+    bottom: 500px;
+}
+
+
+footer{
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    bottom: 170px;
+}
+
+#primer_div{
+    width: 25%;
+    display: inline-block;
+    position: relative;
+    margin-left: 100px;
+    
+}
+
+#segundo_div{
+    width: 25%;
+    display: inline-block;
+    position: relative;
+    margin-left: 70px;
+}
+
+
+#tercer_div{
+    width: 25%;
+    display: inline-block;
+    position: relative;
+    margin-left: 90px;
+}
+
+#primer_div img{
+    position:relative;
+    top: 60px;
+    right: 60px;
+
+}
+
+#segundo_div img{
+    position: relative;
+    top: 60px;
+    right: 65px;
+}
+
+#tercer_div img{
+    position: relative;
+    top: 60px;
+    right: 65px;
+}
+
+
