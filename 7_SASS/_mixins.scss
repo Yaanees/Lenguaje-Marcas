@@ -1,0 +1,5 @@
+@mixin centrado($margin,$width) {
+    margin: #{$margin}+"px" auto;
+    width: #{$width}+"%";
+}
+

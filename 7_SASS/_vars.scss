@@ -1,0 +1,10 @@
+$dark-theme: true;
+$color: #222;
+$background-color: #DDD;
+
+$body-background: #FFF;
+
+@if $dark-theme {
+    $color:#DDD;
+    $background-color: #222;
+} 

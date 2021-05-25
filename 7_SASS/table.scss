@@ -1,0 +1,22 @@
+.table {
+        text-align: center;
+        .header{
+           text-align: center;
+           font-size: 50px;
+           p{
+                display:inline;
+                padding: 150px;
+           }
+        }
+    
+      
+      .row {
+        padding: 1rem;
+        p{
+            text-align:left;
+            display: inline;
+            padding-right: 335px;
+            
+        }
+    }
+}

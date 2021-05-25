@@ -1,0 +1,32 @@
+body {
+  background-color: #FFF;
+}
+
+.table {
+  text-align: center;
+}
+.table .header {
+  text-align: center;
+  font-size: 50px;
+}
+.table .header p {
+  display: inline;
+  padding: 150px;
+}
+.table .row {
+  padding: 1rem;
+}
+.table .row p {
+  text-align: left;
+  display: inline;
+  padding-right: 335px;
+}
+
+.sidebar img {
+  width: 5%;
+}
+.sidebar ul {
+  list-style-type: none;
+}
+
+/*# sourceMappingURL=styles.css.map */
